@@ -51,3 +51,24 @@
         z-index: 1;
         margin-top: 10px;
     }
+    #map { 
+        position: absolute; 
+        top: 0; 
+        bottom: 0; 
+        width: 100%; 
+    }
+    .ifcjs-dimension-preview {
+        width: 1rem;
+        height: 1rem;
+        background-color: #FFA50F;
+        border-radius: 1rem;
+        opacity: 0.5;
+    }
+    
+    .ifcjs-dimension-label {
+        background-color: black;
+        color: white;
+        padding: 4px;
+        border-radius: 4px;
+    }
+    
